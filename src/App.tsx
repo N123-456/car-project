@@ -8,7 +8,7 @@ function App() {
       <h3>Sybrid</h3>
       <h4>Internee</h4>
       <h5>front-end</h5>
-      <h6>developer</h6>
+      <h6>developer-</h6>
     </div>
   );
 }
